@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @itskavya28
+- 👀 I’m interested in developing webapps, AI, and everything thats fun to learn...
+- 🌱 I’m currently learning a lot which includes react, nodejs, devops and painting yes!...
+- 📫 reach me at itskavya01@gmail.com...
+
+<!---
+itskavya28/itskavya28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
